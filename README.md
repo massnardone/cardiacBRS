@@ -15,7 +15,7 @@ This app analyzes Cardiac Baroreflex Sensitivity using both time and frequency d
 
 Set up the DataPad. Three columns are required: 1. Statistics / Time at Maximum Calculate from source channel: Finometer 2. Selection & Active Point / Time 3. Statistics / Maximum Value Calculate from source channel: Finometer
 
-![alt text]("https://github.com/massnardone/cardiacBRS/Pictures/Picture1.png")
+![image]("https://github.com/massnardone/cardiacBRS/Pictures/Picture1.png")
 
 <br>
 
@@ -26,7 +26,7 @@ Set up the DataPad. Three columns are required: 1. Statistics / Time at Maximum 
 -   Data source: ECG Check: Selection
 -   OK
 
-![alt text]("https://github.com/massnardone/cardiacBRS/Pictures/Picture2.png")
+![image]("https://github.com/massnardone/cardiacBRS/Pictures/Picture2.png")
 
 <br>
 
@@ -36,7 +36,7 @@ Set up the DataPad. Three columns are required: 1. Statistics / Time at Maximum 
 -   Using the "Event Markers" from the ECG channel, for 0.5s after event marker, through the current selection of data
 -   **NOTE**: the 0.5 seconds is arbitrary and dependent on the participant's heart rate. If heart rates begin to exceed 100, may want to lower the number to 0.3 or 0.4 seconds
 
-![alt text]("https://github.com/massnardone/cardiacBRS/Pictures/Picture3.png")
+![image]("https://github.com/massnardone/cardiacBRS/Pictures/Picture3.png")
 
 <br>
 
@@ -70,7 +70,7 @@ Column 4: RR
 
 -   Calculate RR as shown in picture.
 
-![alt text]("https://github.com/massnardone/cardiacBRS/Pictures/Picture5.png")
+![image]("https://github.com/massnardone/cardiacBRS/Pictures/Picture5.png")
 
 -   **NOTE:** The last row in column D (RR) should be empty
 -   **NOTE:** The R script can be finicky when reading this Excel. Before closing, click on column E, highlight columns until infinity (Ctrl + Shift + →), and delete. Do the same thing for rows.
@@ -83,7 +83,7 @@ Column 4: RR
 -   Click "Run App"
 -   Browse your computer for the input file and run analysis!
 
-![alt text]("https://github.com/massnardone/cardiacBRS/Pictures/Picture6.png")
+![image]("https://github.com/massnardone/cardiacBRS/Pictures/Picture6.png")
 
 <br> <br>
 
